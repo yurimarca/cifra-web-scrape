@@ -1,0 +1,801 @@
+11:02:28.380 INFO: 	 Genre = rockn-roll
+11:02:28.380 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/rockn-roll
+11:02:40.122 INFO: 	 	 Number of pages for = 12
+11:02:45.769 DEBUG: 	 	200 newly added artists!
+11:02:51.385 DEBUG: 	 	200 newly added artists!
+11:02:56.677 DEBUG: 	 	200 newly added artists!
+11:03:02.337 DEBUG: 	 	200 newly added artists!
+11:03:07.383 DEBUG: 	 	200 newly added artists!
+11:03:13.660 DEBUG: 	 	200 newly added artists!
+11:03:19.692 DEBUG: 	 	200 newly added artists!
+11:03:25.330 DEBUG: 	 	200 newly added artists!
+11:03:30.199 DEBUG: 	 	200 newly added artists!
+11:03:34.967 DEBUG: 	 	200 newly added artists!
+11:03:40.838 DEBUG: 	 	200 newly added artists!
+11:03:44.979 DEBUG: 	 	36 newly added artists!
+11:03:44.979 INFO: 	 	 Number of artists = 2236
+11:03:44.979 INFO: 	 Genre = mpb
+11:03:44.979 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/mpb
+11:03:49.660 INFO: 	 	 Number of pages for = 4
+11:03:56.241 DEBUG: 	 	200 newly added artists!
+11:04:02.377 DEBUG: 	 	200 newly added artists!
+11:04:08.998 DEBUG: 	 	200 newly added artists!
+11:04:15.615 DEBUG: 	 	165 newly added artists!
+11:04:15.616 INFO: 	 	 Number of artists = 765
+11:04:15.616 INFO: 	 Genre = reggae
+11:04:15.616 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/reggae
+11:04:22.157 INFO: 	 	 Number of pages for = 3
+11:04:28.677 DEBUG: 	 	200 newly added artists!
+11:04:34.814 DEBUG: 	 	200 newly added artists!
+11:04:39.380 DEBUG: 	 	7 newly added artists!
+11:04:39.380 INFO: 	 	 Number of artists = 407
+11:04:39.381 INFO: 	 Genre = forro
+11:04:39.381 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/forro
+11:04:44.555 INFO: 	 	 Number of pages for = 3
+11:04:49.784 DEBUG: 	 	200 newly added artists!
+11:04:56.330 DEBUG: 	 	200 newly added artists!
+11:05:00.926 DEBUG: 	 	114 newly added artists!
+11:05:00.926 INFO: 	 	 Number of artists = 514
+11:05:00.926 INFO: 	 Genre = rock-alternativo
+11:05:00.926 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/rock-alternativo
+11:05:06.509 INFO: 	 	 Number of pages for = 10
+11:05:12.790 DEBUG: 	 	200 newly added artists!
+11:05:17.587 DEBUG: 	 	200 newly added artists!
+11:05:22.685 DEBUG: 	 	200 newly added artists!
+11:05:27.495 DEBUG: 	 	200 newly added artists!
+11:05:31.937 DEBUG: 	 	200 newly added artists!
+11:05:37.672 DEBUG: 	 	200 newly added artists!
+11:05:42.813 DEBUG: 	 	200 newly added artists!
+11:05:47.515 DEBUG: 	 	200 newly added artists!
+11:05:53.504 DEBUG: 	 	200 newly added artists!
+11:05:58.780 DEBUG: 	 	152 newly added artists!
+11:05:58.782 INFO: 	 	 Number of artists = 1952
+11:05:58.782 INFO: 	 Genre = samba-e-pagode
+11:05:58.782 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/samba-e-pagode
+11:06:05.104 INFO: 	 	 Number of pages for = 5
+11:06:09.893 DEBUG: 	 	200 newly added artists!
+11:06:14.460 DEBUG: 	 	200 newly added artists!
+11:06:18.779 DEBUG: 	 	200 newly added artists!
+11:06:23.938 DEBUG: 	 	200 newly added artists!
+11:06:28.744 DEBUG: 	 	102 newly added artists!
+11:06:28.744 INFO: 	 	 Number of artists = 902
+11:06:28.744 INFO: 	 Genre = country
+11:06:28.744 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/country
+11:06:33.997 INFO: 	 	 Number of pages for = 8
+11:06:38.704 DEBUG: 	 	200 newly added artists!
+11:06:44.596 DEBUG: 	 	200 newly added artists!
+11:06:49.193 DEBUG: 	 	200 newly added artists!
+11:06:54.150 DEBUG: 	 	200 newly added artists!
+11:06:58.582 DEBUG: 	 	200 newly added artists!
+11:07:03.048 DEBUG: 	 	200 newly added artists!
+11:07:07.707 DEBUG: 	 	200 newly added artists!
+11:07:13.782 DEBUG: 	 	135 newly added artists!
+11:07:13.782 INFO: 	 	 Number of artists = 1535
+11:07:13.783 INFO: 	 Genre = sertanejo
+11:07:13.783 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/sertanejo
+11:07:18.823 INFO: 	 	 Number of pages for = 8
+11:07:23.846 DEBUG: 	 	200 newly added artists!
+11:07:29.120 DEBUG: 	 	200 newly added artists!
+11:07:34.762 DEBUG: 	 	200 newly added artists!
+11:07:39.445 DEBUG: 	 	200 newly added artists!
+11:07:45.253 DEBUG: 	 	200 newly added artists!
+11:07:51.230 DEBUG: 	 	200 newly added artists!
+11:07:56.497 DEBUG: 	 	200 newly added artists!
+11:08:01.748 DEBUG: 	 	99 newly added artists!
+11:08:01.749 INFO: 	 	 Number of artists = 1499
+11:08:01.749 INFO: 	 Genre = lambada
+11:08:01.749 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/lambada
+11:08:06.003 INFO: 	 	 Number of pages for = 1
+11:08:10.700 DEBUG: 	 	8 newly added artists!
+11:08:10.701 INFO: 	 	 Number of artists = 8
+11:08:10.701 INFO: 	 Genre = raphip-hop
+11:08:10.701 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/raphip-hop
+11:08:16.575 INFO: 	 	 Number of pages for = 3
+11:08:22.330 DEBUG: 	 	200 newly added artists!
+11:08:26.720 DEBUG: 	 	200 newly added artists!
+11:08:31.318 DEBUG: 	 	73 newly added artists!
+11:08:31.319 INFO: 	 	 Number of artists = 473
+11:08:31.319 INFO: 	 Genre = gospel
+11:08:31.319 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/gospel
+11:08:36.737 INFO: 	 	 Number of pages for = 59
+11:08:42.536 DEBUG: 	 	200 newly added artists!
+11:08:48.956 DEBUG: 	 	200 newly added artists!
+11:08:55.642 DEBUG: 	 	200 newly added artists!
+11:09:01.935 DEBUG: 	 	200 newly added artists!
+11:09:08.739 DEBUG: 	 	200 newly added artists!
+11:09:13.825 DEBUG: 	 	200 newly added artists!
+11:09:19.949 DEBUG: 	 	200 newly added artists!
+11:09:25.367 DEBUG: 	 	200 newly added artists!
+11:09:30.461 DEBUG: 	 	200 newly added artists!
+11:09:36.700 DEBUG: 	 	200 newly added artists!
+11:09:42.163 DEBUG: 	 	200 newly added artists!
+11:09:47.336 DEBUG: 	 	200 newly added artists!
+11:09:52.737 DEBUG: 	 	200 newly added artists!
+11:09:57.289 DEBUG: 	 	200 newly added artists!
+11:10:02.012 DEBUG: 	 	200 newly added artists!
+11:10:06.871 DEBUG: 	 	200 newly added artists!
+11:10:13.220 DEBUG: 	 	200 newly added artists!
+11:10:18.973 DEBUG: 	 	200 newly added artists!
+11:10:23.554 DEBUG: 	 	200 newly added artists!
+11:10:27.986 DEBUG: 	 	200 newly added artists!
+11:10:32.960 DEBUG: 	 	200 newly added artists!
+11:10:38.522 DEBUG: 	 	200 newly added artists!
+11:10:44.274 DEBUG: 	 	200 newly added artists!
+11:10:49.255 DEBUG: 	 	200 newly added artists!
+11:10:55.194 DEBUG: 	 	200 newly added artists!
+11:11:02.393 DEBUG: 	 	200 newly added artists!
+11:11:08.256 DEBUG: 	 	200 newly added artists!
+11:11:13.584 DEBUG: 	 	200 newly added artists!
+11:11:18.356 DEBUG: 	 	200 newly added artists!
+11:11:23.008 DEBUG: 	 	200 newly added artists!
+11:11:27.674 DEBUG: 	 	200 newly added artists!
+11:11:32.918 DEBUG: 	 	200 newly added artists!
+11:11:38.576 DEBUG: 	 	200 newly added artists!
+11:11:43.929 DEBUG: 	 	200 newly added artists!
+11:11:49.239 DEBUG: 	 	200 newly added artists!
+11:11:54.533 DEBUG: 	 	200 newly added artists!
+11:11:59.541 DEBUG: 	 	200 newly added artists!
+11:12:05.129 DEBUG: 	 	200 newly added artists!
+11:12:10.013 DEBUG: 	 	200 newly added artists!
+11:12:16.406 DEBUG: 	 	200 newly added artists!
+11:12:22.234 DEBUG: 	 	200 newly added artists!
+11:12:28.689 DEBUG: 	 	200 newly added artists!
+11:12:35.042 DEBUG: 	 	200 newly added artists!
+11:12:39.934 DEBUG: 	 	200 newly added artists!
+11:12:44.612 DEBUG: 	 	200 newly added artists!
+11:12:50.121 DEBUG: 	 	200 newly added artists!
+11:12:55.252 DEBUG: 	 	200 newly added artists!
+11:13:00.604 DEBUG: 	 	200 newly added artists!
+11:13:05.796 DEBUG: 	 	200 newly added artists!
+11:13:12.750 DEBUG: 	 	200 newly added artists!
+11:13:17.814 DEBUG: 	 	200 newly added artists!
+11:13:24.067 DEBUG: 	 	200 newly added artists!
+11:13:28.776 DEBUG: 	 	200 newly added artists!
+11:13:34.080 DEBUG: 	 	200 newly added artists!
+11:13:39.105 DEBUG: 	 	200 newly added artists!
+11:13:43.811 DEBUG: 	 	200 newly added artists!
+11:13:49.037 DEBUG: 	 	200 newly added artists!
+11:13:54.417 DEBUG: 	 	200 newly added artists!
+11:14:00.740 DEBUG: 	 	133 newly added artists!
+11:14:00.741 INFO: 	 	 Number of artists = 11733
+11:14:00.742 INFO: 	 Genre = axe-music
+11:14:00.742 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/axe-music
+11:14:06.516 INFO: 	 	 Number of pages for = 1
+11:14:10.977 DEBUG: 	 	151 newly added artists!
+11:14:10.978 INFO: 	 	 Number of artists = 151
+11:14:10.978 INFO: 	 Genre = brasil
+11:14:10.978 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/brasil
+11:14:16.191 INFO: 	 	 Number of pages for = 3
+11:14:21.593 DEBUG: 	 	200 newly added artists!
+11:14:27.205 DEBUG: 	 	200 newly added artists!
+11:14:32.101 DEBUG: 	 	21 newly added artists!
+11:14:32.102 INFO: 	 	 Number of artists = 421
+11:14:32.102 INFO: 	 Genre = australiano
+11:14:32.102 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/australiano
+11:14:37.171 INFO: 	 	 Number of pages for = 2
+11:14:42.017 DEBUG: 	 	200 newly added artists!
+11:14:48.502 DEBUG: 	 	37 newly added artists!
+11:14:48.502 INFO: 	 	 Number of artists = 237
+11:14:48.502 INFO: 	 Genre = bossa-nova
+11:14:48.502 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/bossa-nova
+11:14:53.547 INFO: 	 	 Number of pages for = 1
+11:14:59.009 DEBUG: 	 	51 newly added artists!
+11:14:59.010 INFO: 	 	 Number of artists = 51
+11:14:59.010 INFO: 	 Genre = latinas
+11:14:59.010 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/latinas
+11:15:04.351 INFO: 	 	 Number of pages for = 5
+11:15:09.668 DEBUG: 	 	200 newly added artists!
+11:15:14.915 DEBUG: 	 	200 newly added artists!
+11:15:19.754 DEBUG: 	 	200 newly added artists!
+11:15:25.608 DEBUG: 	 	200 newly added artists!
+11:15:29.875 DEBUG: 	 	63 newly added artists!
+11:15:29.876 INFO: 	 	 Number of artists = 863
+11:15:29.876 INFO: 	 Genre = besteirol
+11:15:29.876 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/besteirol
+11:15:35.379 INFO: 	 	 Number of pages for = 1
+11:15:40.611 DEBUG: 	 	52 newly added artists!
+11:15:40.612 INFO: 	 	 Number of artists = 52
+11:15:40.612 INFO: 	 Genre = brega
+11:15:40.612 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/brega
+11:15:46.537 INFO: 	 	 Number of pages for = 1
+11:15:52.393 DEBUG: 	 	143 newly added artists!
+11:15:52.393 INFO: 	 	 Number of artists = 143
+11:15:52.393 INFO: 	 Genre = dance-music
+11:15:52.393 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/dance-music
+11:15:57.201 INFO: 	 	 Number of pages for = 1
+11:16:03.333 DEBUG: 	 	72 newly added artists!
+11:16:03.334 INFO: 	 	 Number of artists = 72
+11:16:03.334 INFO: 	 Genre = disco
+11:16:03.334 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/disco
+11:16:09.599 INFO: 	 	 Number of pages for = 1
+11:16:13.971 DEBUG: 	 	32 newly added artists!
+11:16:13.972 INFO: 	 	 Number of artists = 32
+11:16:13.973 INFO: 	 Genre = especial-de-natal
+11:16:13.973 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/especial-de-natal
+11:16:19.966 INFO: 	 	 Number of pages for = 1
+11:16:24.911 DEBUG: 	 	5 newly added artists!
+11:16:24.912 INFO: 	 	 Number of artists = 5
+11:16:24.912 INFO: 	 Genre = eletronica
+11:16:24.913 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/eletronica
+11:16:31.166 INFO: 	 	 Number of pages for = 2
+11:16:36.338 DEBUG: 	 	200 newly added artists!
+11:16:41.330 DEBUG: 	 	2 newly added artists!
+11:16:41.330 INFO: 	 	 Number of artists = 202
+11:16:41.330 INFO: 	 Genre = filmes
+11:16:41.330 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/filmes
+11:16:46.600 INFO: 	 	 Number of pages for = 1
+11:16:51.142 DEBUG: 	 	140 newly added artists!
+11:16:51.142 INFO: 	 	 Number of artists = 140
+11:16:51.142 INFO: 	 Genre = funk
+11:16:51.142 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/funk
+11:16:56.475 INFO: 	 	 Number of pages for = 1
+11:17:02.737 DEBUG: 	 	127 newly added artists!
+11:17:02.738 INFO: 	 	 Number of artists = 127
+11:17:02.739 INFO: 	 Genre = heavy-metal
+11:17:02.739 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/heavy-metal
+11:17:08.053 INFO: 	 	 Number of pages for = 2
+11:17:12.864 DEBUG: 	 	200 newly added artists!
+11:17:18.635 DEBUG: 	 	138 newly added artists!
+11:17:18.636 INFO: 	 	 Number of artists = 338
+11:17:18.636 INFO: 	 Genre = hinos
+11:17:18.636 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/hinos
+11:17:24.642 INFO: 	 	 Number of pages for = 1
+11:17:29.100 DEBUG: 	 	24 newly added artists!
+11:17:29.100 INFO: 	 	 Number of artists = 24
+11:17:29.100 INFO: 	 Genre = infantis
+11:17:29.100 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/infantis
+11:17:34.350 INFO: 	 	 Number of pages for = 1
+11:17:39.399 DEBUG: 	 	162 newly added artists!
+11:17:39.400 INFO: 	 	 Number of artists = 162
+11:17:39.400 INFO: 	 Genre = jovem-guarda
+11:17:39.400 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/jovem-guarda
+11:17:45.219 INFO: 	 	 Number of pages for = 1
+11:17:50.139 DEBUG: 	 	47 newly added artists!
+11:17:50.139 INFO: 	 	 Number of artists = 47
+11:17:50.140 INFO: 	 Genre = novelas
+11:17:50.140 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/novelas
+11:17:55.221 INFO: 	 	 Number of pages for = 1
+11:18:00.126 DEBUG: 	 	32 newly added artists!
+11:18:00.126 INFO: 	 	 Number of artists = 32
+11:18:00.126 INFO: 	 Genre = romantica
+11:18:00.126 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/romantica
+11:18:04.797 INFO: 	 	 Number of pages for = 3
+11:18:09.237 DEBUG: 	 	200 newly added artists!
+11:18:14.875 DEBUG: 	 	200 newly added artists!
+11:18:20.832 DEBUG: 	 	85 newly added artists!
+11:18:20.832 INFO: 	 	 Number of artists = 485
+11:18:20.832 INFO: 	 Genre = rock-classico
+11:18:20.832 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/rock-classico
+11:18:25.521 INFO: 	 	 Number of pages for = 2
+11:18:30.483 DEBUG: 	 	200 newly added artists!
+11:18:35.334 DEBUG: 	 	110 newly added artists!
+11:18:35.335 INFO: 	 	 Number of artists = 310
+11:18:35.335 INFO: 	 Genre = regional
+11:18:35.335 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/regional
+11:18:41.831 INFO: 	 	 Number of pages for = 1
+11:18:47.248 DEBUG: 	 	145 newly added artists!
+11:18:47.249 INFO: 	 	 Number of artists = 145
+11:18:47.249 INFO: 	 Genre = samba-enredo
+11:18:47.249 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/samba-enredo
+11:18:53.329 INFO: 	 	 Number of pages for = 1
+11:18:58.259 DEBUG: 	 	64 newly added artists!
+11:18:58.260 INFO: 	 	 Number of artists = 64
+11:18:58.260 INFO: 	 Genre = velha-guarda
+11:18:58.260 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/velha-guarda
+11:19:04.686 INFO: 	 	 Number of pages for = 1
+11:19:10.111 DEBUG: 	 	62 newly added artists!
+11:19:10.113 INFO: 	 	 Number of artists = 62
+11:19:10.113 INFO: 	 Genre = mangue
+11:19:10.113 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/mangue
+11:19:15.336 INFO: 	 	 Number of pages for = 1
+11:19:20.375 DEBUG: 	 	2 newly added artists!
+11:19:20.375 INFO: 	 	 Number of artists = 2
+11:19:20.375 INFO: 	 Genre = soul
+11:19:20.375 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/soul
+11:19:26.012 INFO: 	 	 Number of pages for = 1
+11:19:32.894 DEBUG: 	 	143 newly added artists!
+11:19:32.896 INFO: 	 	 Number of artists = 143
+11:19:32.896 INFO: 	 Genre = catolicas
+11:19:32.896 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/catolicas
+11:19:39.287 INFO: 	 	 Number of pages for = 6
+11:19:44.147 DEBUG: 	 	200 newly added artists!
+11:19:49.124 DEBUG: 	 	200 newly added artists!
+11:19:53.789 DEBUG: 	 	200 newly added artists!
+11:19:58.837 DEBUG: 	 	200 newly added artists!
+11:20:03.436 DEBUG: 	 	200 newly added artists!
+11:20:08.010 DEBUG: 	 	147 newly added artists!
+11:20:08.012 INFO: 	 	 Number of artists = 1147
+11:20:08.012 INFO: 	 Genre = blues
+11:20:08.012 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/blues
+11:20:13.271 INFO: 	 	 Number of pages for = 1
+11:20:19.698 DEBUG: 	 	193 newly added artists!
+11:20:19.699 INFO: 	 	 Number of artists = 193
+11:20:19.699 INFO: 	 Genre = pop-music
+11:20:19.700 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/pop-music
+11:20:25.656 INFO: 	 	 Number of pages for = 21
+11:20:30.891 DEBUG: 	 	200 newly added artists!
+11:20:35.507 DEBUG: 	 	200 newly added artists!
+11:20:41.007 DEBUG: 	 	200 newly added artists!
+11:20:46.139 DEBUG: 	 	200 newly added artists!
+11:20:51.837 DEBUG: 	 	200 newly added artists!
+11:20:57.929 DEBUG: 	 	200 newly added artists!
+11:21:02.915 DEBUG: 	 	200 newly added artists!
+11:21:08.497 DEBUG: 	 	200 newly added artists!
+11:21:14.115 DEBUG: 	 	200 newly added artists!
+11:21:19.525 DEBUG: 	 	200 newly added artists!
+11:21:26.027 DEBUG: 	 	200 newly added artists!
+11:21:32.177 DEBUG: 	 	200 newly added artists!
+11:21:38.554 DEBUG: 	 	200 newly added artists!
+11:21:44.611 DEBUG: 	 	200 newly added artists!
+11:21:49.260 DEBUG: 	 	200 newly added artists!
+11:21:54.444 DEBUG: 	 	200 newly added artists!
+11:22:00.210 DEBUG: 	 	200 newly added artists!
+11:22:05.583 DEBUG: 	 	200 newly added artists!
+11:22:11.177 DEBUG: 	 	200 newly added artists!
+11:22:16.167 DEBUG: 	 	200 newly added artists!
+11:22:20.896 DEBUG: 	 	6 newly added artists!
+11:22:20.897 INFO: 	 	 Number of artists = 4006
+11:22:20.897 INFO: 	 Genre = jazz
+11:22:20.897 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/jazz
+11:22:26.576 INFO: 	 	 Number of pages for = 1
+11:22:31.880 DEBUG: 	 	173 newly added artists!
+11:22:31.882 INFO: 	 	 Number of artists = 173
+11:22:31.883 INFO: 	 Genre = diversos
+11:22:31.883 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/diversos
+11:22:38.112 INFO: 	 	 Number of pages for = 11
+11:22:42.860 DEBUG: 	 	200 newly added artists!
+11:22:48.348 DEBUG: 	 	200 newly added artists!
+11:22:53.557 DEBUG: 	 	200 newly added artists!
+11:23:00.313 DEBUG: 	 	200 newly added artists!
+11:23:05.277 DEBUG: 	 	200 newly added artists!
+11:23:10.937 DEBUG: 	 	200 newly added artists!
+11:23:16.962 DEBUG: 	 	200 newly added artists!
+11:23:21.592 DEBUG: 	 	200 newly added artists!
+11:23:26.480 DEBUG: 	 	200 newly added artists!
+11:23:31.210 DEBUG: 	 	200 newly added artists!
+11:23:37.240 DEBUG: 	 	99 newly added artists!
+11:23:37.240 INFO: 	 	 Number of artists = 2099
+11:23:37.240 INFO: 	 Genre = musica-classica
+11:23:37.240 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/musica-classica
+11:23:42.617 INFO: 	 	 Number of pages for = 1
+11:23:48.357 DEBUG: 	 	91 newly added artists!
+11:23:48.358 INFO: 	 	 Number of artists = 91
+11:23:48.358 INFO: 	 Genre = punk-rock
+11:23:48.358 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/punk-rock
+11:23:53.480 INFO: 	 	 Number of pages for = 3
+11:23:58.296 DEBUG: 	 	200 newly added artists!
+11:24:03.243 DEBUG: 	 	200 newly added artists!
+11:24:08.961 DEBUG: 	 	160 newly added artists!
+11:24:08.962 INFO: 	 	 Number of artists = 560
+11:24:08.962 INFO: 	 Genre = opera
+11:24:08.962 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/opera
+11:24:13.838 INFO: 	 	 Number of pages for = 1
+11:24:18.214 DEBUG: 	 	12 newly added artists!
+11:24:18.214 INFO: 	 	 Number of artists = 12
+11:24:18.215 INFO: 	 Genre = espiritas
+11:24:18.215 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/espiritas
+11:24:23.033 INFO: 	 	 Number of pages for = 1
+11:24:27.797 DEBUG: 	 	79 newly added artists!
+11:24:27.798 INFO: 	 	 Number of artists = 79
+11:24:27.798 INFO: 	 Genre = rock-grunge
+11:24:27.798 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/rock-grunge
+11:24:32.408 INFO: 	 	 Number of pages for = 1
+11:24:36.647 DEBUG: 	 	54 newly added artists!
+11:24:36.647 INFO: 	 	 Number of artists = 54
+11:24:36.647 INFO: 	 Genre = thrash-metal
+11:24:36.647 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/thrash-metal
+11:24:41.872 INFO: 	 	 Number of pages for = 1
+11:24:46.528 DEBUG: 	 	58 newly added artists!
+11:24:46.528 INFO: 	 	 Number of artists = 58
+11:24:46.528 INFO: 	 Genre = numetal
+11:24:46.528 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/numetal
+11:24:51.679 INFO: 	 	 Number of pages for = 1
+11:24:56.881 DEBUG: 	 	31 newly added artists!
+11:24:56.882 INFO: 	 	 Number of artists = 31
+11:24:56.882 INFO: 	 Genre = fado
+11:24:56.882 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/fado
+11:25:03.004 INFO: 	 	 Number of pages for = 1
+11:25:07.588 DEBUG: 	 	42 newly added artists!
+11:25:07.589 INFO: 	 	 Number of artists = 42
+11:25:07.589 INFO: 	 Genre = gauchas
+11:25:07.589 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/gauchas
+11:25:12.960 INFO: 	 	 Number of pages for = 1
+11:25:17.584 DEBUG: 	 	139 newly added artists!
+11:25:17.585 INFO: 	 	 Number of artists = 139
+11:25:17.585 INFO: 	 Genre = oldies
+11:25:17.585 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/oldies
+11:25:22.101 INFO: 	 	 Number of pages for = 2
+11:25:27.016 DEBUG: 	 	200 newly added artists!
+11:25:31.420 DEBUG: 	 	196 newly added artists!
+11:25:31.421 INFO: 	 	 Number of artists = 396
+11:25:31.421 INFO: 	 Genre = indian
+11:25:31.421 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/indian
+11:25:36.441 INFO: 	 	 Number of pages for = 1
+11:25:41.077 DEBUG: 	 	22 newly added artists!
+11:25:41.077 INFO: 	 	 Number of artists = 22
+11:25:41.078 INFO: 	 Genre = nao-informada
+11:25:41.078 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/nao-informada
+11:25:46.368 INFO: 	 	 Number of pages for = 176
+11:25:50.546 DEBUG: 	 	200 newly added artists!
+11:25:55.434 DEBUG: 	 	200 newly added artists!
+11:25:59.916 DEBUG: 	 	200 newly added artists!
+11:26:05.104 DEBUG: 	 	200 newly added artists!
+11:26:10.488 DEBUG: 	 	200 newly added artists!
+11:26:15.260 DEBUG: 	 	200 newly added artists!
+11:26:21.332 DEBUG: 	 	200 newly added artists!
+11:26:25.708 DEBUG: 	 	200 newly added artists!
+11:26:31.680 DEBUG: 	 	200 newly added artists!
+11:26:36.574 DEBUG: 	 	200 newly added artists!
+11:26:41.419 DEBUG: 	 	200 newly added artists!
+11:26:46.115 DEBUG: 	 	200 newly added artists!
+11:26:51.018 DEBUG: 	 	200 newly added artists!
+11:26:55.361 DEBUG: 	 	200 newly added artists!
+11:27:01.151 DEBUG: 	 	200 newly added artists!
+11:27:06.320 DEBUG: 	 	200 newly added artists!
+11:27:11.903 DEBUG: 	 	200 newly added artists!
+11:27:17.822 DEBUG: 	 	200 newly added artists!
+11:27:24.801 DEBUG: 	 	200 newly added artists!
+11:27:29.958 DEBUG: 	 	200 newly added artists!
+11:27:35.132 DEBUG: 	 	200 newly added artists!
+11:27:40.336 DEBUG: 	 	200 newly added artists!
+11:27:46.788 DEBUG: 	 	200 newly added artists!
+11:27:53.097 DEBUG: 	 	200 newly added artists!
+11:27:59.359 DEBUG: 	 	200 newly added artists!
+11:28:04.423 DEBUG: 	 	200 newly added artists!
+11:28:10.047 DEBUG: 	 	200 newly added artists!
+11:28:15.223 DEBUG: 	 	200 newly added artists!
+11:28:20.547 DEBUG: 	 	200 newly added artists!
+11:28:25.890 DEBUG: 	 	200 newly added artists!
+11:28:31.954 DEBUG: 	 	200 newly added artists!
+11:28:36.489 DEBUG: 	 	200 newly added artists!
+11:28:42.008 DEBUG: 	 	200 newly added artists!
+11:28:47.659 DEBUG: 	 	200 newly added artists!
+11:28:52.404 DEBUG: 	 	200 newly added artists!
+11:28:57.954 DEBUG: 	 	200 newly added artists!
+11:29:02.749 DEBUG: 	 	200 newly added artists!
+11:29:08.334 DEBUG: 	 	200 newly added artists!
+11:29:13.456 DEBUG: 	 	200 newly added artists!
+11:29:18.722 DEBUG: 	 	200 newly added artists!
+11:29:23.772 DEBUG: 	 	200 newly added artists!
+11:29:29.106 DEBUG: 	 	200 newly added artists!
+11:29:35.227 DEBUG: 	 	200 newly added artists!
+11:29:40.525 DEBUG: 	 	200 newly added artists!
+11:29:45.701 DEBUG: 	 	200 newly added artists!
+11:29:51.230 DEBUG: 	 	200 newly added artists!
+11:29:56.373 DEBUG: 	 	200 newly added artists!
+11:30:01.489 DEBUG: 	 	200 newly added artists!
+11:30:06.465 DEBUG: 	 	200 newly added artists!
+11:30:12.335 DEBUG: 	 	200 newly added artists!
+11:30:16.758 DEBUG: 	 	200 newly added artists!
+11:30:22.844 DEBUG: 	 	200 newly added artists!
+11:30:27.241 DEBUG: 	 	200 newly added artists!
+11:30:32.607 DEBUG: 	 	200 newly added artists!
+11:30:37.683 DEBUG: 	 	200 newly added artists!
+11:30:43.002 DEBUG: 	 	200 newly added artists!
+11:30:48.161 DEBUG: 	 	200 newly added artists!
+11:30:53.483 DEBUG: 	 	200 newly added artists!
+11:30:58.611 DEBUG: 	 	200 newly added artists!
+11:31:03.103 DEBUG: 	 	200 newly added artists!
+11:31:07.998 DEBUG: 	 	200 newly added artists!
+11:31:14.193 DEBUG: 	 	200 newly added artists!
+11:31:20.326 DEBUG: 	 	200 newly added artists!
+11:31:25.856 DEBUG: 	 	200 newly added artists!
+11:31:30.900 DEBUG: 	 	200 newly added artists!
+11:31:35.581 DEBUG: 	 	200 newly added artists!
+11:31:41.803 DEBUG: 	 	200 newly added artists!
+11:31:47.846 DEBUG: 	 	200 newly added artists!
+11:31:52.829 DEBUG: 	 	200 newly added artists!
+11:31:58.924 DEBUG: 	 	200 newly added artists!
+11:32:04.130 DEBUG: 	 	200 newly added artists!
+11:32:10.361 DEBUG: 	 	200 newly added artists!
+11:32:14.980 DEBUG: 	 	200 newly added artists!
+11:32:20.138 DEBUG: 	 	200 newly added artists!
+11:32:25.215 DEBUG: 	 	200 newly added artists!
+11:32:29.914 DEBUG: 	 	200 newly added artists!
+11:32:34.907 DEBUG: 	 	200 newly added artists!
+11:32:39.713 DEBUG: 	 	200 newly added artists!
+11:32:44.682 DEBUG: 	 	200 newly added artists!
+11:32:49.718 DEBUG: 	 	200 newly added artists!
+11:32:54.784 DEBUG: 	 	200 newly added artists!
+11:32:59.451 DEBUG: 	 	200 newly added artists!
+11:33:04.784 DEBUG: 	 	200 newly added artists!
+11:33:10.013 DEBUG: 	 	200 newly added artists!
+11:33:16.174 DEBUG: 	 	200 newly added artists!
+11:33:20.894 DEBUG: 	 	200 newly added artists!
+11:33:27.470 DEBUG: 	 	200 newly added artists!
+11:33:32.385 DEBUG: 	 	200 newly added artists!
+11:33:37.582 DEBUG: 	 	200 newly added artists!
+11:33:44.116 DEBUG: 	 	200 newly added artists!
+11:33:49.120 DEBUG: 	 	200 newly added artists!
+11:33:53.693 DEBUG: 	 	200 newly added artists!
+11:33:58.161 DEBUG: 	 	200 newly added artists!
+11:34:03.431 DEBUG: 	 	200 newly added artists!
+11:34:08.186 DEBUG: 	 	200 newly added artists!
+11:34:13.298 DEBUG: 	 	200 newly added artists!
+11:34:18.484 DEBUG: 	 	200 newly added artists!
+11:34:23.549 DEBUG: 	 	200 newly added artists!
+11:34:28.685 DEBUG: 	 	200 newly added artists!
+11:34:35.042 DEBUG: 	 	200 newly added artists!
+11:34:40.386 DEBUG: 	 	200 newly added artists!
+11:34:46.433 DEBUG: 	 	200 newly added artists!
+11:34:52.192 DEBUG: 	 	200 newly added artists!
+11:34:57.471 DEBUG: 	 	200 newly added artists!
+11:35:02.085 DEBUG: 	 	200 newly added artists!
+11:35:07.406 DEBUG: 	 	200 newly added artists!
+11:35:12.158 DEBUG: 	 	200 newly added artists!
+11:35:16.764 DEBUG: 	 	200 newly added artists!
+11:35:22.347 DEBUG: 	 	200 newly added artists!
+11:35:27.435 DEBUG: 	 	200 newly added artists!
+11:35:32.634 DEBUG: 	 	200 newly added artists!
+11:35:38.007 DEBUG: 	 	200 newly added artists!
+11:35:42.624 DEBUG: 	 	200 newly added artists!
+11:35:47.779 DEBUG: 	 	200 newly added artists!
+11:35:53.027 DEBUG: 	 	200 newly added artists!
+11:35:58.476 DEBUG: 	 	200 newly added artists!
+11:36:04.807 DEBUG: 	 	200 newly added artists!
+11:36:10.152 DEBUG: 	 	200 newly added artists!
+11:36:15.323 DEBUG: 	 	200 newly added artists!
+11:36:21.598 DEBUG: 	 	200 newly added artists!
+11:36:26.739 DEBUG: 	 	200 newly added artists!
+11:36:33.401 DEBUG: 	 	200 newly added artists!
+11:36:38.246 DEBUG: 	 	200 newly added artists!
+11:36:44.040 DEBUG: 	 	200 newly added artists!
+11:36:48.577 DEBUG: 	 	200 newly added artists!
+11:36:54.089 DEBUG: 	 	200 newly added artists!
+11:36:58.834 DEBUG: 	 	200 newly added artists!
+11:37:04.482 DEBUG: 	 	200 newly added artists!
+11:37:09.154 DEBUG: 	 	200 newly added artists!
+11:37:13.879 DEBUG: 	 	200 newly added artists!
+11:37:19.032 DEBUG: 	 	200 newly added artists!
+11:37:23.579 DEBUG: 	 	200 newly added artists!
+11:37:29.795 DEBUG: 	 	200 newly added artists!
+11:37:35.241 DEBUG: 	 	200 newly added artists!
+11:37:40.485 DEBUG: 	 	200 newly added artists!
+11:37:45.801 DEBUG: 	 	200 newly added artists!
+11:37:50.603 DEBUG: 	 	200 newly added artists!
+11:37:55.831 DEBUG: 	 	200 newly added artists!
+11:38:00.511 DEBUG: 	 	200 newly added artists!
+11:38:05.707 DEBUG: 	 	200 newly added artists!
+11:38:10.348 DEBUG: 	 	200 newly added artists!
+11:38:14.954 DEBUG: 	 	200 newly added artists!
+11:38:19.542 DEBUG: 	 	200 newly added artists!
+11:38:25.624 DEBUG: 	 	200 newly added artists!
+11:38:31.156 DEBUG: 	 	200 newly added artists!
+11:38:35.621 DEBUG: 	 	200 newly added artists!
+11:38:40.285 DEBUG: 	 	200 newly added artists!
+11:38:45.871 DEBUG: 	 	200 newly added artists!
+11:38:51.106 DEBUG: 	 	200 newly added artists!
+11:38:56.485 DEBUG: 	 	200 newly added artists!
+11:39:01.614 DEBUG: 	 	200 newly added artists!
+11:39:07.050 DEBUG: 	 	200 newly added artists!
+11:39:12.275 DEBUG: 	 	200 newly added artists!
+11:39:17.964 DEBUG: 	 	200 newly added artists!
+11:39:22.845 DEBUG: 	 	200 newly added artists!
+11:39:27.941 DEBUG: 	 	200 newly added artists!
+11:39:32.436 DEBUG: 	 	200 newly added artists!
+11:39:37.084 DEBUG: 	 	200 newly added artists!
+11:39:41.536 DEBUG: 	 	200 newly added artists!
+11:39:47.064 DEBUG: 	 	200 newly added artists!
+11:39:52.569 DEBUG: 	 	200 newly added artists!
+11:39:57.686 DEBUG: 	 	200 newly added artists!
+11:40:02.751 DEBUG: 	 	200 newly added artists!
+11:40:07.587 DEBUG: 	 	200 newly added artists!
+11:40:12.277 DEBUG: 	 	200 newly added artists!
+11:40:17.540 DEBUG: 	 	200 newly added artists!
+11:40:23.063 DEBUG: 	 	200 newly added artists!
+11:40:28.212 DEBUG: 	 	200 newly added artists!
+11:40:32.834 DEBUG: 	 	200 newly added artists!
+11:40:38.517 DEBUG: 	 	200 newly added artists!
+11:40:43.627 DEBUG: 	 	200 newly added artists!
+11:40:48.161 DEBUG: 	 	200 newly added artists!
+11:40:53.144 DEBUG: 	 	200 newly added artists!
+11:40:58.413 DEBUG: 	 	200 newly added artists!
+11:41:02.754 DEBUG: 	 	200 newly added artists!
+11:41:07.451 DEBUG: 	 	120 newly added artists!
+11:41:07.452 INFO: 	 	 Number of artists = 35120
+11:41:07.452 INFO: 	 Genre = pop-rock
+11:41:07.452 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/pop-rock
+11:41:12.920 INFO: 	 	 Number of pages for = 2
+11:41:17.677 DEBUG: 	 	200 newly added artists!
+11:41:22.415 DEBUG: 	 	67 newly added artists!
+11:41:22.415 INFO: 	 	 Number of artists = 267
+11:41:22.415 INFO: 	 Genre = folk
+11:41:22.415 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/folk
+11:41:27.357 INFO: 	 	 Number of pages for = 1
+11:41:32.451 DEBUG: 	 	153 newly added artists!
+11:41:32.452 INFO: 	 	 Number of artists = 153
+11:41:32.452 INFO: 	 Genre = rb
+11:41:32.452 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/rb
+11:41:37.695 INFO: 	 	 Number of pages for = 1
+11:41:43.496 DEBUG: 	 	48 newly added artists!
+11:41:43.497 INFO: 	 	 Number of artists = 48
+11:41:43.497 INFO: 	 Genre = indie
+11:41:43.497 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/indie
+11:41:49.351 INFO: 	 	 Number of pages for = 1
+11:41:54.118 DEBUG: 	 	74 newly added artists!
+11:41:54.118 INFO: 	 	 Number of artists = 74
+11:41:54.118 INFO: 	 Genre = choro
+11:41:54.118 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/choro
+11:41:58.769 INFO: 	 	 Number of pages for = 1
+11:42:04.087 DEBUG: 	 	2 newly added artists!
+11:42:04.087 INFO: 	 	 Number of artists = 2
+11:42:04.087 INFO: 	 Genre = flamenco
+11:42:04.087 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/flamenco
+11:42:08.828 INFO: 	 	 Number of pages for = 1
+11:42:12.856 DEBUG: 	 	4 newly added artists!
+11:42:12.856 INFO: 	 	 Number of artists = 4
+11:42:12.856 INFO: 	 Genre = tango
+11:42:12.856 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/tango
+11:42:19.139 INFO: 	 	 Number of pages for = 1
+11:42:23.667 DEBUG: 	 	2 newly added artists!
+11:42:23.668 INFO: 	 	 Number of artists = 2
+11:42:23.668 INFO: 	 Genre = rock-gotico
+11:42:23.668 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/rock-gotico
+11:42:29.535 INFO: 	 	 Number of pages for = 1
+11:42:33.630 DEBUG: 	 	1 newly added artists!
+11:42:33.630 INFO: 	 	 Number of artists = 1
+11:42:33.630 INFO: 	 Genre = country-rock
+11:42:33.630 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/country-rock
+11:42:38.604 INFO: 	 	 Number of pages for = 1
+11:42:42.594 DEBUG: 	 	2 newly added artists!
+11:42:42.594 INFO: 	 	 Number of artists = 2
+11:42:42.594 INFO: 	 Genre = acustico
+11:42:42.594 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/acustico
+11:42:47.324 INFO: 	 	 Number of pages for = 1
+11:42:51.312 DEBUG: 	 	1 newly added artists!
+11:42:51.312 INFO: 	 	 Number of artists = 1
+11:42:51.312 INFO: 	 Genre = autoconhecimento
+11:42:51.312 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/autoconhecimento
+11:42:56.085 INFO: 	 	 Number of pages for = 1
+11:43:00.315 DEBUG: 	 	10 newly added artists!
+11:43:00.315 INFO: 	 	 Number of artists = 10
+11:43:00.315 INFO: 	 Genre = umbanda
+11:43:00.315 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/umbanda
+11:43:06.062 INFO: 	 	 Number of pages for = 1
+11:43:10.335 DEBUG: 	 	11 newly added artists!
+11:43:10.336 INFO: 	 	 Number of artists = 11
+11:43:10.336 INFO: 	 Genre = bluegrass
+11:43:10.336 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/bluegrass
+11:43:14.705 INFO: 	 	 Number of pages for = 1
+11:43:19.350 DEBUG: 	 	12 newly added artists!
+11:43:19.350 INFO: 	 	 Number of artists = 12
+11:43:19.350 INFO: 	 Genre = jingle
+11:43:19.351 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/jingle
+11:43:24.152 INFO: 	 	 Number of pages for = 1
+11:43:28.317 DEBUG: 	 	2 newly added artists!
+11:43:28.317 INFO: 	 	 Number of artists = 2
+11:43:28.317 INFO: 	 Genre = minimalista
+11:43:28.318 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/minimalista
+11:43:33.014 INFO: 	 	 Number of pages for = 1
+11:43:37.557 DEBUG: 	 	0 newly added artists!
+11:43:37.557 INFO: 	 	 Number of artists = 0
+11:43:37.557 INFO: 	 Genre = musical
+11:43:37.557 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/musical
+11:43:41.869 INFO: 	 	 Number of pages for = 1
+11:43:46.803 DEBUG: 	 	13 newly added artists!
+11:43:46.803 INFO: 	 	 Number of artists = 13
+11:43:46.804 INFO: 	 Genre = funk-carioca
+11:43:46.804 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/funk-carioca
+11:43:51.329 INFO: 	 	 Number of pages for = 1
+11:43:55.417 DEBUG: 	 	17 newly added artists!
+11:43:55.417 INFO: 	 	 Number of artists = 17
+11:43:55.417 INFO: 	 Genre = vallenato
+11:43:55.417 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/vallenato
+11:43:59.605 INFO: 	 	 Number of pages for = 1
+11:44:04.314 DEBUG: 	 	1 newly added artists!
+11:44:04.314 INFO: 	 	 Number of artists = 1
+11:44:04.314 INFO: 	 Genre = reggaeton
+11:44:04.315 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/reggaeton
+11:44:09.427 INFO: 	 	 Number of pages for = 1
+11:44:13.463 DEBUG: 	 	2 newly added artists!
+11:44:13.463 INFO: 	 	 Number of artists = 2
+11:44:13.463 INFO: 	 Genre = gypsy-jazz
+11:44:13.464 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/gypsy-jazz
+11:44:18.565 INFO: 	 	 Number of pages for = 1
+11:44:22.659 DEBUG: 	 	0 newly added artists!
+11:44:22.659 INFO: 	 	 Number of artists = 0
+11:44:22.659 INFO: 	 Genre = pisadinha
+11:44:22.659 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/pisadinha
+11:44:27.455 INFO: 	 	 Number of pages for = 1
+11:44:32.554 DEBUG: 	 	23 newly added artists!
+11:44:32.555 INFO: 	 	 Number of artists = 23
+11:44:32.555 INFO: 	 Genre = worship
+11:44:32.555 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/worship
+11:44:37.688 INFO: 	 	 Number of pages for = 1
+11:44:43.366 DEBUG: 	 	52 newly added artists!
+11:44:43.367 INFO: 	 	 Number of artists = 52
+11:44:43.367 INFO: 	 Genre = k-pop
+11:44:43.367 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/k-pop
+11:44:48.702 INFO: 	 	 Number of pages for = 1
+11:44:53.368 DEBUG: 	 	7 newly added artists!
+11:44:53.368 INFO: 	 	 Number of artists = 7
+11:44:53.368 INFO: 	 Genre = trap
+11:44:53.369 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/trap
+11:44:57.559 INFO: 	 	 Number of pages for = 1
+11:45:01.488 DEBUG: 	 	9 newly added artists!
+11:45:01.488 INFO: 	 	 Number of artists = 9
+11:45:01.488 INFO: 	 Genre = soft-rock
+11:45:01.488 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/soft-rock
+11:45:05.610 INFO: 	 	 Number of pages for = 1
+11:45:10.228 DEBUG: 	 	0 newly added artists!
+11:45:10.228 INFO: 	 	 Number of artists = 0
+11:45:10.228 INFO: 	 Genre = garage-pop
+11:45:10.228 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/garage-pop
+11:45:14.801 INFO: 	 	 Number of pages for = 1
+11:45:19.522 DEBUG: 	 	0 newly added artists!
+11:45:19.522 INFO: 	 	 Number of artists = 0
+11:45:19.522 INFO: 	 Genre = indie-pop
+11:45:19.522 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/indie-pop
+11:45:24.201 INFO: 	 	 Number of pages for = 1
+11:45:28.447 DEBUG: 	 	15 newly added artists!
+11:45:28.447 INFO: 	 	 Number of artists = 15
+11:45:28.447 INFO: 	 Genre = indie-rock
+11:45:28.447 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/indie-rock
+11:45:33.149 INFO: 	 	 Number of pages for = 1
+11:45:37.308 DEBUG: 	 	33 newly added artists!
+11:45:37.309 INFO: 	 	 Number of artists = 33
+11:45:37.309 INFO: 	 Genre = dream-pop
+11:45:37.309 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/dream-pop
+11:45:42.148 INFO: 	 	 Number of pages for = 1
+11:45:46.730 DEBUG: 	 	3 newly added artists!
+11:45:46.731 INFO: 	 	 Number of artists = 3
+11:45:46.731 INFO: 	 Genre = alternative
+11:45:46.731 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/alternative
+11:45:51.425 INFO: 	 	 Number of pages for = 1
+11:45:56.035 DEBUG: 	 	7 newly added artists!
+11:45:56.036 INFO: 	 	 Number of artists = 7
+11:45:56.036 INFO: 	 Genre = samba-rock
+11:45:56.036 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/samba-rock
+11:46:00.759 INFO: 	 	 Number of pages for = 1
+11:46:04.702 DEBUG: 	 	1 newly added artists!
+11:46:04.703 INFO: 	 	 Number of artists = 1
+11:46:04.703 INFO: 	 Genre = Samba-Rock
+11:46:04.703 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/Samba-Rock
+11:46:08.688 INFO: 	 	 Number of pages for = 1
+11:46:12.794 DEBUG: 	 	1 newly added artists!
+11:46:12.794 INFO: 	 	 Number of artists = 1
+11:46:12.794 INFO: 	 Genre = musica-nativista
+11:46:12.794 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/musica-nativista
+11:46:17.530 INFO: 	 	 Number of pages for = 1
+11:46:21.572 DEBUG: 	 	1 newly added artists!
+11:46:21.573 INFO: 	 	 Number of artists = 1
+11:46:21.573 INFO: 	 Genre = musica-crista
+11:46:21.573 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/musica-crista
+11:46:27.235 INFO: 	 	 Number of pages for = 1
+11:46:33.580 DEBUG: 	 	129 newly added artists!
+11:46:33.581 INFO: 	 	 Number of artists = 129
+11:46:33.581 INFO: 	 Genre = new-wave
+11:46:33.581 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/new-wave
+11:46:38.723 INFO: 	 	 Number of pages for = 1
+11:46:43.495 DEBUG: 	 	2 newly added artists!
+11:46:43.496 INFO: 	 	 Number of artists = 2
+11:46:43.496 INFO: 	 Genre = post-punk
+11:46:43.496 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/post-punk
+11:46:50.114 INFO: 	 	 Number of pages for = 1
+11:46:54.588 DEBUG: 	 	1 newly added artists!
+11:46:54.589 INFO: 	 	 Number of artists = 1
+11:46:54.589 INFO: 	 Genre = musica-de-carnaval
+11:46:54.589 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/musica-de-carnaval
+11:47:00.510 INFO: 	 	 Number of pages for = 1
+11:47:05.111 DEBUG: 	 	1 newly added artists!
+11:47:05.111 INFO: 	 	 Number of artists = 1
+11:47:05.111 INFO: 	 Genre = hard-rock
+11:47:05.112 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/hard-rock
+11:47:10.530 INFO: 	 	 Number of pages for = 1
+11:47:15.074 DEBUG: 	 	3 newly added artists!
+11:47:15.074 INFO: 	 	 Number of artists = 3
+11:47:15.074 INFO: 	 Genre = power-metal
+11:47:15.074 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/power-metal
+11:47:19.512 INFO: 	 	 Number of pages for = 1
+11:47:24.280 DEBUG: 	 	0 newly added artists!
+11:47:24.281 INFO: 	 	 Number of artists = 0
+11:47:24.281 INFO: 	 Genre = goregrind
+11:47:24.282 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/goregrind
+11:47:29.264 INFO: 	 	 Number of pages for = 1
+11:47:34.689 DEBUG: 	 	1 newly added artists!
+11:47:34.689 INFO: 	 	 Number of artists = 1
+11:47:34.690 INFO: 	 Genre = anime
+11:47:34.690 INFO: 	 	 Genre URL = https://www.cifras.com.br/genero/anime
+11:47:40.170 INFO: 	 	 Number of pages for = 1
+11:47:46.572 DEBUG: 	 	1 newly added artists!
+11:47:46.572 INFO: 	 	 Number of artists = 1
