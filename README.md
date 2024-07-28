@@ -21,12 +21,11 @@ After collecting the data
 
 - Notebook `data-consolidation.ipynb` parses the scraped data into a consolidated format, saving the result in CSV file. Handling missing values, duplicates, and inconsistencies in the data 
 
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis
 
 
 ### Feature Engineering
 
 
 ### Data Analysis
-
 
